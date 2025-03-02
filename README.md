@@ -1,4 +1,4 @@
-![Github Banner](https://media.licdn.com/dms/image/v2/D4D12AQFipt_NaDQ0FA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1668786762608?e=2147483647&v=beta&t=qC0YqS35r8tk11V2Xz-JJl41B14CcUBLMXx4my5zeLc)
+![Github Banner]([https://media.licdn.com/dms/image/v2/D4D12AQFipt_NaDQ0FA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1668786762608?e=2147483647&v=beta&t=qC0YqS35r8tk11V2Xz-JJl41B14CcUBLMXx4my5zeLc](https://lh3.googleusercontent.com/proxy/7gWPwGq7H7Vdo0Ssen-kPGn2ZMg6f2M5u0ML8mvGcU5nbQXBa9085CnKi4hFP-xS4J4qWB5w-YqA3LbzPdY-TM1j6MAIWa0_xn_6T_qF11XxJaQyiM-i3JkIS8RjWKP7Yxqu_oWaWPrR-JKWr5oLHkVYHg))
 
 ## Who am I?
 
