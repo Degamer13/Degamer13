@@ -3,9 +3,8 @@
 <h1 align="center">
 Hola Soy Deivys Gamarra!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+
  
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+En+Informatica;Full+Stack+Web+Developer;Freelancer;Soporte+Tecnico;Hacking+Etico&center=true&width=380&height=45"></a>
 </p>
@@ -90,14 +89,6 @@ Yo soy Degamer13@github
 </p>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; background-color: #2c2f3d; border-radius: 10px;">
-    <div style="flex: 1; text-align: center;">
-        <img src="https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true" alt="Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑" style="border-radius: 10px;">
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia" alt="Vishal's github stats" style="border-radius: 10px;">
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia" alt="Vishal's GitHub Streak" style="border-radius: 10px;">
-    </div>
-</div>
+------
+
+Última edición: 02/03/2025
