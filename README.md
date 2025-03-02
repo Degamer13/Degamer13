@@ -8,11 +8,19 @@ Hola Soy Deivys Gamarra!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+En+Informatica;Full+Stack+Web+Developer;Freelancer;Soporte+Tecnico;Hacking+Etico&center=true&width=380&height=45"></a>
 </p>
-<hr>
-<h3>Biografia</h3>
+
+<h3>Descripción</h3>
+
 <p>
-  hola
+Desde el 2020, inicié mi camino en la programación con el objetivo de desarrollar aplicaciones web destinadas a solucionar problemas institucionales. Durante mi formación como técnico superior en informática, y posteriormente en ingeniería, un requisito crucial fue la realización de proyectos socio-tecnológicos. En el transcurso de mi carrera, cada año me enfoqué en el desarrollo de una aplicación web específica para una institución:
+<br><br>
+En 2021, creé una aplicación web para el registro y control de visitas de la Biblioteca Virtual Manuel Carlos Piar.
+  <br><br>
+En 2022, diseñé una aplicación web para el registro y control de becados en la Universidad Politécnica Territorial de Bolívar (UPTEB).
+  <br><br>
+En 2023, desarrollé una aplicación web para el registro y control estadístico en la Fuerza Militar 622 Makeran.
 </p>
+
 <img align="left" src="https://www.iplacex.cl/wp-content/uploads/2024/05/Blog-articulo-informatica.jpg" alt="Imagen de escritorio de trabajo" width="360" height="320" />
 <hr>
 
