@@ -8,7 +8,11 @@ Hola Soy Deivys Gamarra!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+En+Informatica;Full+Stack+Web+Developer;Freelancer;Soporte+Tecnico;Hacking+Etico&center=true&width=380&height=45"></a>
 </p>
-
+<hr>
+<h3>Biografia</h3>
+<p>
+  hola
+</p>
 <img align="left" src="https://www.iplacex.cl/wp-content/uploads/2024/05/Blog-articulo-informatica.jpg" alt="Imagen de escritorio de trabajo" width="360" height="320" />
 <hr>
 
