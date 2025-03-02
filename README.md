@@ -82,19 +82,22 @@ Yo soy Degamer13@github
 
 </p>
 
-### 👨🏽‍💻 Workspace
+### 👨🏽‍💻 Espacio de trabajo
 <p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+
 </p>
 
 
-## GitHub Stats
-
-
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
-    
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; background-color: #2c2f3d; border-radius: 10px;">
+    <div style="flex: 1; text-align: center;">
+        <img src="https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true" alt="Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑" style="border-radius: 10px;">
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia" alt="Vishal's github stats" style="border-radius: 10px;">
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia" alt="Vishal's GitHub Streak" style="border-radius: 10px;">
+    </div>
+</div>
