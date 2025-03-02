@@ -1,4 +1,4 @@
-![Github Banner]([https://techaccess.co.za/wp-content/uploads/2021/12/Black-Technology-LinkedIn-Banner-9.jpg](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png))
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 ## Who am I?
 
