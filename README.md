@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://www.shutterstock.com/image-vector/vector-image-programming-language-logos-260nw-2370541679.jpg)
 
 ## Who am I?
 
