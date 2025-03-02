@@ -59,11 +59,11 @@ Yo soy Degamer13@github
 ### 🗄️Bases de datos y alojamiento en la nube
 
 <p>
- <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%233B4D95?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="InfinityFree" src="https://img.shields.io/badge/InfinityFree-2C2D72?style=for-the-badge&logo=infinity&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="InfinityFree" src="https://img.shields.io/badge/InfinityFree-1E4A77?style=for-the-badge&logo=infinity&logoColor=white"></a>
 
 </p>
 
