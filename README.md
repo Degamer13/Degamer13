@@ -1,4 +1,4 @@
-![Github Banner](https://fcefyn.unc.edu.ar/media/images/Becas_de_Formacion_en_Tecnol.2e16d0ba.fill-1600x390-c100.jpg)
+![Github Banner]([https://fcefyn.unc.edu.ar/media/images/Becas_de_Formacion_en_Tecnol.2e16d0ba.fill-1600x390-c100.jpg](https://techaccess.co.za/wp-content/uploads/2021/12/Black-Technology-LinkedIn-Banner-9.jpg))
 
 ## Who am I?
 
