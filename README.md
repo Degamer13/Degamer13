@@ -19,7 +19,7 @@ Yo soy Degamer13@github
 💻 Soy un desarrollador autodidacta Full Stack y en Hacking Etico
 📚 Tengo un Titulo en Ingenieria en Informatica de la UPTEB de Venezuela
 📝 Tengo un gran interés en la Seguridad Informatica e Inteligencia artificial.
-🔭 Working on Deep Learning & Machine Learning
+🔭 Trabajando como Programador y Soporte Tecnico
 🌱 Aprendiendo Wordpress, Seguridad Informatica e Inteligencia artificial
 🌟 Lenguajes principales: PHP, SQL
 🎵 Me encanta el metal, bachata, rock y el reggaeton.
@@ -27,10 +27,9 @@ Yo soy Degamer13@github
 <hr>
 
 
-## 🛠️ My Favorite Tools
+## 🛠️ Mis herramientas favoritas
 
-### 👨‍💻 Programming Languages
-
+### 👨‍💻 Lenguajes de programación
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
