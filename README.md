@@ -1,22 +1,20 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <h1 align="center">
-Hi, I'm Vishal Maurya!
+Hola Soy Deivys Gamarra!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
-<br/>
-
+ 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+En+Informatica;Full+Stack+Web+Developer;Freelancer;Soporte+Tecnico;Hacking+Etico&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://avatars.githubusercontent.com/u/91560435?s=400&u=d39654decbabf0bb9a0bc28454758399d864d30b&v=4" alt="foto de perfil" width="320" />
+<img align="left" src="https://www.iplacex.cl/wp-content/uploads/2024/05/Blog-articulo-informatica.jpg" alt="Imagen de escritorio de trabajo" width="360" height="320" />
 <hr>
 
 ```
-I-am-vishalmaurya@github
+Yo soy Degamer13@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University of Mumbai at India
