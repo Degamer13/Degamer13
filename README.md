@@ -16,15 +16,13 @@ Hola Soy Deivys Gamarra!
 ```
 Yo soy Degamer13@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
+💻 Soy un desarrollador autodidacta Full Stack y en Hacking Etico
+📚 Tengo un Titulo en Ingenieria en Informatica de la UPTEB de Venezuela
+📝 Tengo un gran interés en la Seguridad Informatica e Inteligencia artificial.
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🌱 Aprendiendo Wordpress, Seguridad Informatica e Inteligencia artificial
+🌟 Lenguajes principales: PHP, SQL
+🎵 Me encanta el metal, bachata, rock y el reggaeton.
 ```
 <hr>
 
