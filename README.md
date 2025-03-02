@@ -15,7 +15,7 @@ Hola Soy Deivys Gamarra!
 ```
 Yo soy Degamer13@github
 -------------------------
-💻 Soy un desarrollador autodidacta Full Stack y en Hacking Etico
+💻 Soy un desarrollador autodidacta Full Stack
 📚 Tengo un Titulo en Ingenieria en Informatica de la UPTEB de Venezuela
 📝 Tengo un gran interés en la Seguridad Informatica e Inteligencia artificial.
 🔭 Trabajando como Programador y Soporte Tecnico
