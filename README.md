@@ -29,7 +29,7 @@ Yo soy Degamer13@github
 -------------------------
 💻 Soy un desarrollador autodidacta Full Stack
 📚 Tengo un Titulo en Ingenieria en Informatica de la UPTEB de Venezuela
-📝 Tengo un gran interés en la Seguridad Informatica e Inteligencia artificial.
+📝 Tengo un gran interés en la Seguridad Informatica, CiberSeguridad e Inteligencia artificial.
 🔭 Trabajando como Programador y Soporte Tecnico
 🌱 Aprendiendo Wordpress, Seguridad Informatica e Inteligencia artificial
 🌟 Lenguajes principales: PHP, SQL
