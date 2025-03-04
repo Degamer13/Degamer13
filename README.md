@@ -6,7 +6,7 @@ Hola Soy Deivys Gamarra!
 
  
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+En+Informatica;Full+Stack+Web+Developer;Freelancer;Soporte+Tecnico;Hacking+Etico&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+En+Informatica;Full+Stack+Developer+Developer;Freelancer;Soporte+Tecnico;Hacking+Etico&center=true&width=380&height=45"></a>
 </p>
 
 <h3>Descripción</h3>
