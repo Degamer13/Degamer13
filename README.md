@@ -12,7 +12,7 @@ Hola Soy Deivys Gamarra!
 <h3>Descripción</h3>
 
 <p>
-Desde el 2020, inicié mi camino en la programación con el objetivo de desarrollar aplicaciones web destinadas a solucionar problemas institucionales. Durante mi formación como técnico superior en informática, y posteriormente en ingeniería, un requisito crucial fue la realización de proyectos socio-tecnológicos. En el transcurso de mi carrera, cada año me enfoqué en el desarrollo de una aplicación web específica para una institución:
+Desde el 2019, inicié mi camino en la programación con el objetivo de desarrollar aplicaciones web destinadas a solucionar problemas institucionales. Durante mi formación como técnico superior en informática, y posteriormente en ingeniería, un requisito crucial fue la realización de proyectos socio-tecnológicos. En el transcurso de mi carrera, cada año me enfoqué en el desarrollo de una aplicación web específica para una institución:
 <br><br>
 En 2021, creé una aplicación web para el registro y control de visitas de la Biblioteca Virtual Manuel Carlos Piar.
   <br><br>
